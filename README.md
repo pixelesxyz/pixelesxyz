@@ -1,2 +1,4 @@
 - Vapor
 - Swift
+- TypeScript
+- JavaScript
